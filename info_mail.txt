@@ -1,0 +1,11 @@
+service ID 
+service_yyi1dcr
+
+
+your Public Key 
+51x-SXmB3-0VJEkTt
+
+
+template_id 
+
+template_xkuejbg
